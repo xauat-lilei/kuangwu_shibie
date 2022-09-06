@@ -1,8 +1,4 @@
-#-*- coding =utf-8 -*-
-#@Time : 2021/12/24 0024 15:51
-#@Author :李雷
-#@File : huatu.py
-#@Software: PyCharm
+
 import matplotlib.pyplot as plt
 import numpy as np
 def plot_history(epochs, Acc, Loss):
