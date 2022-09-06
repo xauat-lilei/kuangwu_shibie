@@ -1,8 +1,4 @@
-#-*- coding =utf-8 -*-
-#@Time : 2021/12/26 0026 16:23
-#@Author :李雷
-#@File : huatu.py
-#@Software: PyCharm
+
 
 
 import matplotlib.pyplot as plt
